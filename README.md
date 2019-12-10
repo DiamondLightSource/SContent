@@ -16,6 +16,8 @@ Should run all the way through.
 
 For some databases, ovevr 16GB RAM is required. (The BIG ones, such as bacteria).
 
+All results are put into a newly created dirrectory data_files.
+
 To run inidividually, the order is:
 
 ```bash
