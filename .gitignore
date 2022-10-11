@@ -1,0 +1,4 @@
+*.c
+/SulphurContentComplete.build/*
+/SulphurContentComplete.dist/*
+SulphurContentComplete.onefile-build/*
